@@ -7,15 +7,17 @@
 
 (function(){
 
-    console.log("FIGHT!!!!!");
+
 
 //    var fighterone=["Kobal",20,100];
 //    var fightertwo=["Kratos",20,100];
     var round=0;
+    var button=document.querySelector("#fight_btn");
+    var output=document.querySelector("#output");
     function fight(){
        var fighterone = {name:"Kobal", damage:20, health:100};
        var fightertwo= {name:"Kratos", damage:20,health:100};
-        alert(fighterone[0]+":"+fighterone[2]+" *START* "+fightertwo[0]+":"+fightertwo[2]);
+        output.innerHTML=fighterone[0]+":"+fighterone[2]+" *START* "+fightertwo[0]+":"+fightertwo[2];
         for(var i=0; i<10;i++){
             var mindamage1= fighterone.damage*.5;
             var mindamage2= fightertwo.damage*.5;
@@ -28,7 +30,7 @@
             console.log(results);
             if(results==="No Winner"){
                 round++;
-                alert(fighterone[0]+":"+fighterone[2]+" *ROUND* "+round+"OVER*"+fightertwo[0]+":"+fightertwo[2]);
+               output.innerHTML==fighterone[0]+":"+fighterone[2]+" *ROUND* "+round+"OVER*"+fightertwo[0]+":"+fightertwo[2];
             }else{
                 break; }
         }

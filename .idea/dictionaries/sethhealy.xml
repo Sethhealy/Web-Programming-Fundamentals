@@ -12,6 +12,7 @@
       <w>jbond</w>
       <w>kobal</w>
       <w>kratos</w>
+      <w>magicnumber</w>
       <w>mindamage</w>
       <w>mmouse</w>
       <w>netflix</w>
@@ -20,10 +21,12 @@
       <w>playeronename</w>
       <w>playertwohealth</w>
       <w>playertwoname</w>
+      <w>playgame</w>
       <w>qitem</w>
       <w>sman</w>
       <w>spiderman</w>
       <w>startgame</w>
+      <w>usernumber</w>
       <w>var's</w>
       <w>winnercheck</w>
       <w>winnerconsole</w>

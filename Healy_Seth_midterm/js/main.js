@@ -27,11 +27,12 @@
     population();
     btn.addEventListener("click",onClick);
 
-    function divided(){
-       students[0].average = [(students[0].gpa[0]+students[0].gpa[1]+students[0].gpa[2])/students[0].gpa.length];
-    return average;
-
-    }
+//   var gpaavg = function divided(myary){
+//
+//var gradeavg=0;
+//       for(var i=0; max=myary.length)
+//
+//    }
 
     function onClick(e){
 
