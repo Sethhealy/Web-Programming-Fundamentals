@@ -37,7 +37,7 @@
 //            console.log(e.name)
 //        });
 
-var names=["Scott","Bob","Joe","Richie","Seth"];
+    var names=["Scott","Bob","Joe","Richie","Seth"];
     var people=[];
     function Person(n,j){
         this.name=n;

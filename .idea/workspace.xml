@@ -23,31 +23,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="indexclass6.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class1/indexclass6.html">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Healy_Seth_Object/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="28" selection-start="73" selection-end="73" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="210">
+            <state line="46" column="54" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="915">
+              <folding>
+                <element signature="e#0#82#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="person.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Healy_Seth_Object/js/person.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="26" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+              <folding>
+                <element signature="e#0#82#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="object.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Healy_Seth_Object/object.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="34" selection-start="974" selection-end="974" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="615">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day6.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class1/Js/day6.js">
+      <file leaf-file-name="practice.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Class1/Js/practice.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="25" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1530">
-              <folding>
-                <element signature="e#0#44#0" expanded="false" />
-                <marker date="1386895463000" expanded="true" signature="313:869" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day6new.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class1/Js/day6new.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="232" selection-end="232" vertical-scroll-proportion="0.15418503" vertical-offset="0" max-vertical-offset="681">
+            <state line="26" column="15" selection-start="590" selection-end="590" vertical-scroll-proportion="0.4845815" vertical-offset="30" max-vertical-offset="1065">
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -55,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="objects.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class1/Js/objects.js">
+      <file leaf-file-name="student.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class1/Js/student.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+            <state line="14" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -66,10 +76,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guess.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Healy_Seth_Guessinggame/Js/guess.js">
+      <file leaf-file-name="fake.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class1/fake.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="18" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="2085">
+            <state line="11" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="practice.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class1/practice.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -78,7 +97,7 @@
       <file leaf-file-name="function normal.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class1/Js/function normal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="44" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+            <state line="3" column="0" selection-start="44" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -104,28 +123,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Class1/Js/day5.js" />
-        <option value="$PROJECT_DIR$/Healy_Seth_midterm/js/main.js" />
-        <option value="$PROJECT_DIR$/Class1/index3.html" />
-        <option value="$PROJECT_DIR$/Class1/Js/indexclass5.html" />
-        <option value="$PROJECT_DIR$/Class1/Js/guess.js" />
-        <option value="$PROJECT_DIR$/Class1/indexclass5.html" />
-        <option value="$PROJECT_DIR$/duel3/index.html" />
-        <option value="$PROJECT_DIR$/duel3/js/duel3.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/class5.js" />
-        <option value="$PROJECT_DIR$/goal5_assign_validation/index.html" />
-        <option value="$PROJECT_DIR$/goal5_assign_validation/js/validate.js" />
-        <option value="$PROJECT_DIR$/Healy_Seth_Guessinggame/index3.html" />
-        <option value="$PROJECT_DIR$/Class1/Js/day6.js" />
-        <option value="$PROJECT_DIR$/Class1/indexclass6.html" />
         <option value="$PROJECT_DIR$/Class1/Js/objects.js" />
         <option value="$PROJECT_DIR$/Class1/Js/day6new.js" />
+        <option value="$PROJECT_DIR$/Class1/Js/function normal.js" />
+        <option value="$PROJECT_DIR$/Class1/day7.html" />
+        <option value="$PROJECT_DIR$/Class1/Js/utils.js" />
+        <option value="$PROJECT_DIR$/Class1/Js/day7.js" />
+        <option value="$PROJECT_DIR$/fake.html" />
+        <option value="$PROJECT_DIR$/Class1/fake.html" />
+        <option value="$PROJECT_DIR$/Class1/Js/book.js" />
+        <option value="$PROJECT_DIR$/Class1/Js/faketest.js" />
+        <option value="$PROJECT_DIR$/Healy_Seth_Object/object.html" />
+        <option value="$PROJECT_DIR$/Healy_Seth_Object/js/main.js" />
+        <option value="$PROJECT_DIR$/Healy_Seth_Object/js/person.js" />
+        <option value="$PROJECT_DIR$/Class1/practice.html" />
+        <option value="$PROJECT_DIR$/Class1/Js/student.js" />
+        <option value="$PROJECT_DIR$/Class1/Js/practice.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
-    <option name="y" value="23" />
+    <option name="x" value="13" />
+    <option name="y" value="24" />
     <option name="width" value="1390" />
     <option name="height" value="829" />
   </component>
@@ -208,6 +227,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Healy_Seth_midterm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Healy_Seth_midterm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Class1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -253,11 +304,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Class1" />
+      <recent name="$PROJECT_DIR$/conditional" />
       <recent name="$PROJECT_DIR$/Healy_Seth_Guessinggame/Js" />
       <recent name="$PROJECT_DIR$/goal5_assign_validation/js" />
       <recent name="$PROJECT_DIR$/Healy_Seth_Guessinggame" />
-      <recent name="$PROJECT_DIR$/wk1" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -346,7 +397,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="23" width="1390" height="829" extended-state="0" />
+    <frame x="13" y="24" width="1390" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -370,23 +421,23 @@
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281493" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281493" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296131" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19122024" sideWeight="0.60186625" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19717261" sideWeight="0.60186625" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39813375" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39813375" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -399,123 +450,128 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day4.js">
+    <entry file="file://$PROJECT_DIR$/Class1/Js/faketest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
+        <state line="31" column="21" selection-start="908" selection-end="908" vertical-scroll-proportion="0.0" vertical-offset="249" max-vertical-offset="1020">
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="2" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Custom Library/day7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="681">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/jstest.js">
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Custom Library/utils.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="4" selection-start="713" selection-end="713" vertical-scroll-proportion="0.66079295" vertical-offset="0" max-vertical-offset="780">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="681">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/duel3/js/duel3.js">
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Custom Library/day7.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="100" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goal5_assign_validation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="67" selection-start="2753" selection-end="2763" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1560">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/duel3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="13" selection-start="528" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Healy_Seth_Guessinggame/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="241" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.22026432" vertical-offset="150" max-vertical-offset="1545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/class5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="37" selection-start="617" selection-end="617" vertical-scroll-proportion="0.3524229" vertical-offset="0" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goal5_assign_validation/js/validate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Healy_Seth_Guessinggame/Js/guess.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Healy_Seth_midterm/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1159" selection-end="1183" vertical-scroll-proportion="0.33039647" vertical-offset="390" max-vertical-offset="1395">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="681">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="66" selection-end="100" vertical-scroll-proportion="0.15981735" vertical-offset="0" max-vertical-offset="657">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Js/function normal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="44" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+        <state line="3" column="0" selection-start="44" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/indexclass6.html">
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Object/object.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="73" selection-end="73" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="210">
+        <state line="33" column="34" selection-start="974" selection-end="974" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day6.js">
+    <entry file="file://$PROJECT_DIR$/Class1/fake.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1530">
+        <state line="11" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/practice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
           <folding>
             <element signature="e#0#44#0" expanded="false" />
-            <marker date="1386895463000" expanded="true" signature="313:869" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/objects.js">
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Object/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+        <state line="46" column="54" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="915">
           <folding>
-            <element signature="e#0#44#0" expanded="false" />
+            <element signature="e#0#82#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day6new.js">
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Object/js/person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="232" selection-end="232" vertical-scroll-proportion="0.15418503" vertical-offset="0" max-vertical-offset="681">
+        <state line="18" column="26" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <folding>
+            <element signature="e#0#82#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/practice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="15" selection-start="590" selection-end="590" vertical-scroll-proportion="0.4845815" vertical-offset="30" max-vertical-offset="1065">
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>
