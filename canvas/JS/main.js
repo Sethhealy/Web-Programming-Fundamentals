@@ -35,6 +35,6 @@ console.log("start canvas painter main.js");
 			ctx.lineTo(mouse.x,mouse.y);
 			ctx.stroke();
 		}
-		requestAnimationFrame(update); //function thats runs 60 frames per second
+		requestAnimationFrame(update); //function that runs 60 frames per second
 	})();
 })();
