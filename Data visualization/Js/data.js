@@ -81,7 +81,7 @@ var bar=[50,100,150,200,250,300];
 
 
         ctx.beginPath();
-        ctx.strokeStyle="yellow";
+        ctx.strokeStyle="orange";
         ctx.fillStyle="black";
         ctx.strokeRect(bar[4],120,30,grades[4]*4);
         ctx.fill();

@@ -1,4 +1,4 @@
-/**
+/*
  * Created by sethhealy on 12/8/13.
  */
 (function(){
@@ -17,11 +17,11 @@
     var yyyy = day.getFullYear();
     if(dd<10){dd='0'+dd} if(mm<10){mm='0'+mm}day = mm+'/'+dd+'/'+yyyy;
     var students= [{name:"Jbond",address:"3300 University Winter park Florida",gpa:[4,4,4],date:day},
-                   {name:'Mmouse',address:"123 test Dr Winter park Florida",gpa:[3,4,3],date:day}
+        {name:'Mmouse',address:"123 test Dr Winter park Florida",gpa:[3,4,3],date:day}
     ];
     displayinfo();
 
-        //students.push(student);
+    //students.push(student);
     addstudent("Sman","fortress of solitude Somewhere in the north or south pole.",[3,4,3],day);
     displayinfo();
     population();
@@ -80,8 +80,4 @@
 
         }}
 }());
-
-
-
-
 
