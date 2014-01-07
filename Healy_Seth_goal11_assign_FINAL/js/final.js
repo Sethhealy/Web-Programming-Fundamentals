@@ -38,7 +38,7 @@
 
     function onClick(e){
 
-displayinfo();
+        displayinfo();
 
         population();
 

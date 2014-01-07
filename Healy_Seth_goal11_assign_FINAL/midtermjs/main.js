@@ -27,13 +27,14 @@
     population();
     btn.addEventListener("click",onClick);
 
-//   var gpaavg = function divided(myary){
-//
-//var gradeavg=0;
-//       for(var i=0; max=myary.length)
-//
-//    }
+    function averagegpa(ave){// my average function
+        var average=0;
+        for(var i=0; i<ave.length; i++){
+            average+=ave[i];
 
+        }
+        return (average/ave.length).toFixed(2);
+    }
     function onClick(e){
 
         population();
@@ -41,8 +42,8 @@
 
     }
 
-    function addstudent(n,adr,g,day){
-        var obj={name:n,address:adr,gpa:g,date:day};
+    function addstudent(n,adr,g,day,ave){
+        var obj={name:n,address:adr,gpa:g,date:day,average:ave};
 
         students.push(obj);
 
@@ -55,7 +56,7 @@
             address.innerHTML= "address: "+ students[counter].address;
             gpa.innerHTML= "gpa: "+  students[counter].gpa;
             date.innerHTML="date: "+ students[counter].date;
-            average.innerHTML="avg gpa: "+ students[0]*average;
+            average.innerHTML="avg gpa: "+ averagegpa(students[counter].grades);
 
 
 
